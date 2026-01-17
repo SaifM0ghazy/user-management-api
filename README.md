@@ -52,7 +52,8 @@ It demonstrates **CRUD operations**, **query parameters**, **path parameters**, 
 
 ## Example API Requests
 
-### 1️⃣ GET /users: Get all users
-- Returns a list of all users.
+### 1️⃣ **GET** /users: Get all users
+- **Description**: Returns a list of all users.
+
 ```http
 GET http://localhost:3000/users
