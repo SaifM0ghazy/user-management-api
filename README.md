@@ -55,5 +55,6 @@ It demonstrates **CRUD operations**, **query parameters**, **path parameters**, 
 ### 1️⃣ **GET** /users: Get all users
 - **Description**: Returns a list of all users.
 
+#### Request:
 ```http
 GET http://localhost:3000/users
