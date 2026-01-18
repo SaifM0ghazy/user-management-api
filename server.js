@@ -357,5 +357,4 @@ app.patch("/users/:id", (req, res) => {
 
 //Now, anyone can delete, add, and edit. We mostly want to grant permissions, so look up the meaning of "authentication" so we can apply this concept in a later lesson.
 
-// Saif Moghazy
 app.listen(PORT, () => console.log(`Server run http://localhost:${PORT || 2000}`))
